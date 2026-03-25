@@ -4,6 +4,20 @@
 Works with **any AI** — ChatGPT, Claude, Gemini, Copilot, Llama, Mistral, or any instruction-following model.
 Works with any brand, any product category, any seller account type.
 
+---
+
+> **IMPORTANT DISCLAIMER**
+>
+> **This is not financial or business advice.** AI output may be inaccurate, outdated, or misleading. This project is **not affiliated with, endorsed by, or associated with Amazon.com, Inc.** in any way.
+>
+> Following AI-generated recommendations may result in financial loss, listing suppression, or Amazon account action (including suspension). Amazon policies, fees, and marketplace rules change frequently and without notice. AI models may present outdated or incorrect policy interpretations as current fact.
+>
+> **Verify all information independently in Amazon Seller Central before acting on it.** You are solely responsible for your Amazon seller account and all business decisions.
+>
+> See the [Terms of Service](docs/terms.html) for complete legal terms.
+
+---
+
 ## What These Are
 
 Each file is a standalone system prompt that turns a general-purpose AI into a specialist Amazon advisor. Paste one into your AI's system prompt, custom instructions, or "role" field and start a conversation.
